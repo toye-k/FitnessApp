@@ -1,0 +1,890 @@
+{
+  "exercises": [
+    {
+      "id": "barbell_curl",
+      "name": "Barbell Curl",
+      "target_muscles": ["biceps"],
+      "secondary_muscles": ["forearms"],
+      "equipment": ["barbell"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A classic bicep exercise using a barbell to isolate the biceps muscle.",
+      "instructions": [
+        "Stand with feet shoulder-width apart",
+        "Grip the barbell with hands shoulder-width apart, palms facing forward",
+        "Keep elbows stationary at your sides",
+        "Curl the weight upward toward your chest, squeezing your biceps",
+        "Lower the weight with control back to the starting position",
+        "Repeat for the desired number of repetitions"
+      ],
+      "tips": [
+        "Keep your core tight and avoid swinging",
+        "Control the negative (lowering) portion of the movement",
+        "Don't use momentum to lift the weight"
+      ],
+      "animation_file": "barbell_curl.gif",
+      "youtube_video_id": "dQw4w9WgXcQ"
+    },
+    {
+      "id": "dumbbell_curl",
+      "name": "Dumbbell Curl",
+      "target_muscles": ["biceps"],
+      "secondary_muscles": ["forearms"],
+      "equipment": ["dumbbell"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A free-weight bicep exercise using dumbbells for unilateral arm development.",
+      "instructions": [
+        "Stand with feet shoulder-width apart, dumbbells at your sides",
+        "Keep your elbows stationary and tucked to your sides",
+        "Curl both dumbbells upward simultaneously, rotating palms as you lift",
+        "Squeeze at the top and lower with control",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Use controlled movements, avoid momentum",
+        "Maintain neutral wrists throughout",
+        "Can be performed seated for strict form"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "triceps_dips",
+      "name": "Triceps Dips",
+      "target_muscles": ["triceps"],
+      "secondary_muscles": ["shoulders", "chest"],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A bodyweight exercise using parallel bars or bench to isolate the triceps.",
+      "instructions": [
+        "Grip the dip bars with hands shoulder-width apart",
+        "Lower yourself by bending your elbows to about 90 degrees",
+        "Keep your body upright and elbows close to your sides",
+        "Press back up to the starting position",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Lean slightly forward if using a bench",
+        "Keep elbows in to emphasize triceps over chest",
+        "Can use resistance bands for assistance if needed"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "skull_crushers",
+      "name": "Skull Crushers",
+      "target_muscles": ["triceps"],
+      "secondary_muscles": [],
+      "equipment": ["barbell", "dumbbell"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "An isolation exercise for the triceps performed lying on a bench.",
+      "instructions": [
+        "Lie on a flat bench with barbell or dumbbells held above your chest",
+        "Lower the weight toward your forehead by bending at the elbows",
+        "Keep elbows stationary and pointed forward",
+        "Extend back to the starting position",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Use moderate weight to avoid injury",
+        "Keep elbows from flaring outward",
+        "Full range of motion is important"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "push_ups",
+      "name": "Push-ups",
+      "target_muscles": ["chest"],
+      "secondary_muscles": ["triceps", "shoulders"],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A fundamental bodyweight exercise that targets the chest, triceps, and shoulders.",
+      "instructions": [
+        "Start in a plank position with hands slightly wider than shoulder-width apart",
+        "Lower your body until your chest nearly touches the floor",
+        "Keep your elbows close to your body at roughly 45 degrees",
+        "Push through your hands to return to the starting position",
+        "Repeat for the desired number of repetitions"
+      ],
+      "tips": [
+        "Maintain a straight line from head to heels",
+        "Breathe in on the way down, exhale on the way up",
+        "If too difficult, start on your knees"
+      ],
+      "animation_file": "push_ups.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "leg_press",
+      "name": "Leg Press",
+      "target_muscles": ["quadriceps"],
+      "secondary_muscles": ["gluteus_maximus", "hamstrings"],
+      "equipment": ["machine"],
+      "is_machine_exercise": true,
+      "difficulty": "beginner",
+      "description": "A machine-based exercise for lower body strength development.",
+      "instructions": [
+        "Sit in the leg press machine with your back and head resting against the pad",
+        "Place your feet on the platform about shoulder-width apart",
+        "Lower the platform by bending your knees to about 90 degrees",
+        "Push through your heels to extend your legs and return to the starting position",
+        "Avoid locking out your knees at the top"
+      ],
+      "tips": [
+        "Keep your back flat against the pad",
+        "Don't let your knees cave inward",
+        "Start with a moderate weight and focus on form"
+      ],
+      "animation_file": "leg_press.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "deadlift",
+      "name": "Deadlift",
+      "target_muscles": ["hamstrings"],
+      "secondary_muscles": ["gluteus_maximus", "lower_back"],
+      "equipment": ["barbell"],
+      "is_machine_exercise": false,
+      "difficulty": "advanced",
+      "description": "A complex compound movement that targets the posterior chain.",
+      "instructions": [
+        "Stand with feet hip-width apart, toes under the barbell",
+        "Grip the bar just outside your legs with a shoulder-width grip",
+        "Keep your chest up and core tight as you initiate the lift",
+        "Drive through your heels while maintaining a straight back",
+        "Once the bar passes your knees, drive your hips forward",
+        "Lower the bar by hinging at the hips and bending your knees"
+      ],
+      "tips": [
+        "Keep the barbell close to your body throughout the movement",
+        "Engage your lats before lifting",
+        "This is an advanced lift - learn proper form before adding weight"
+      ],
+      "animation_file": "deadlift.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "dumbbell_bench_press",
+      "name": "Dumbbell Bench Press",
+      "target_muscles": ["chest"],
+      "secondary_muscles": ["triceps", "shoulders"],
+      "equipment": ["dumbbell"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A free-weight exercise for chest development with increased range of motion.",
+      "instructions": [
+        "Lie on a flat bench with dumbbells held at chest level",
+        "Press the dumbbells upward and slightly inward until arms are nearly extended",
+        "Lower the dumbbells with control back to chest level",
+        "The dumbbells should travel in an arc, not straight up and down",
+        "Repeat for the desired number of repetitions"
+      ],
+      "tips": [
+        "Keep your feet flat on the floor for stability",
+        "Lower the dumbbells to where they're level with your chest",
+        "Maintain a slight bend in your elbows at the top"
+      ],
+      "animation_file": "dumbbell_bench_press.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "lat_pulldown",
+      "name": "Lat Pulldown",
+      "target_muscles": ["lats"],
+      "secondary_muscles": ["biceps"],
+      "equipment": ["machine"],
+      "is_machine_exercise": true,
+      "difficulty": "beginner",
+      "description": "A machine exercise that isolates and builds lat strength.",
+      "instructions": [
+        "Sit at the lat pulldown machine with your thighs under the pads",
+        "Grip the bar slightly wider than shoulder-width",
+        "Pull the bar down toward your upper chest by driving your elbows down",
+        "Squeeze your lats at the bottom of the movement",
+        "Allow the bar to return to the starting position with control"
+      ],
+      "tips": [
+        "Lean back slightly at about 20 degrees",
+        "Avoid using too much momentum",
+        "Think about pulling your elbows down rather than pulling your hands"
+      ],
+      "animation_file": "lat_pulldown.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "seated_row",
+      "name": "Seated Row",
+      "target_muscles": ["lats"],
+      "secondary_muscles": ["upper_back", "biceps"],
+      "equipment": ["machine"],
+      "is_machine_exercise": true,
+      "difficulty": "beginner",
+      "description": "A machine exercise for back development and lat strengthening.",
+      "instructions": [
+        "Sit with your chest against the pad and feet firmly on the floor",
+        "Grip the handles with a neutral grip",
+        "Pull the handles toward your torso by driving your elbows back",
+        "Squeeze your back muscles at the end of the movement",
+        "Allow the weight to return with control"
+      ],
+      "tips": [
+        "Keep your chest upright against the pad",
+        "Focus on pulling with your back, not your arms",
+        "Avoid rounding your shoulders forward"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "bent_over_row",
+      "name": "Bent Over Row",
+      "target_muscles": ["upper_back"],
+      "secondary_muscles": ["lats", "biceps"],
+      "equipment": ["barbell", "dumbbell"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A compound movement that strengthens the entire back including upper back and lats.",
+      "instructions": [
+        "Stand with feet hip-width apart, barbell in front of you",
+        "Bend forward at the hips until your torso is nearly parallel to the ground",
+        "Grip the barbell slightly wider than shoulder-width",
+        "Pull the bar up to your lower chest/upper abdomen",
+        "Lower with control and repeat"
+      ],
+      "tips": [
+        "Keep your back straight throughout the movement",
+        "Let the weight pull your arms down between reps",
+        "Can be performed with dumbbells for each hand"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "squats",
+      "name": "Squats",
+      "target_muscles": ["quadriceps"],
+      "secondary_muscles": ["gluteus_maximus", "hamstrings"],
+      "equipment": ["barbell"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A fundamental compound movement that works the entire lower body.",
+      "instructions": [
+        "Stand with feet shoulder-width apart, barbell on your upper back",
+        "Keep your chest up and core engaged",
+        "Descend by bending at the hips and knees simultaneously",
+        "Lower until your thighs are parallel to the ground",
+        "Drive through your heels to return to the starting position"
+      ],
+      "tips": [
+        "Maintain neutral spine throughout the movement",
+        "Knees should track over your toes",
+        "Practice bodyweight squats before adding a barbell"
+      ],
+      "animation_file": "squats.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "plank",
+      "name": "Plank",
+      "target_muscles": ["upper_abs", "lower_abs"],
+      "secondary_muscles": ["lower_back", "shoulders"],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "An isometric core exercise that builds stability and endurance.",
+      "instructions": [
+        "Start on your forearms and toes in a push-up position",
+        "Keep your body in a straight line from head to heels",
+        "Engage your core and avoid letting your hips sag",
+        "Hold this position for the desired amount of time",
+        "Maintain steady breathing throughout"
+      ],
+      "tips": [
+        "Start with 20-30 seconds and gradually increase duration",
+        "Focus on form over time",
+        "Your shoulders should be directly over your elbows"
+      ],
+      "animation_file": "plank.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "crunches",
+      "name": "Crunches",
+      "target_muscles": ["upper_abs"],
+      "secondary_muscles": [],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A core isolation exercise that targets the upper abdominal muscles.",
+      "instructions": [
+        "Lie on your back with knees bent and feet flat on the floor",
+        "Place your hands behind your head or across your chest",
+        "Curl your shoulders upward by contracting your abs",
+        "Lower back down with control",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Avoid pulling on your head - let your abs do the work",
+        "Move through a partial range of motion",
+        "Keep your feet planted on the floor"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "leg_raises",
+      "name": "Leg Raises",
+      "target_muscles": ["lower_abs"],
+      "secondary_muscles": ["hip_flexors"],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A lower abdominal exercise that targets the lower portion of the rectus abdominis.",
+      "instructions": [
+        "Lie on your back with legs straight and arms at your sides",
+        "Keep your lower back pressed to the floor",
+        "Raise both legs up to about 90 degrees",
+        "Lower your legs back down without letting them touch the floor",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Keep your lower back pressed to prevent injury",
+        "Move slowly and under control",
+        "Can bend knees for easier variation"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "russian_twists",
+      "name": "Russian Twists",
+      "target_muscles": ["obliques"],
+      "secondary_muscles": ["upper_abs"],
+      "equipment": ["dumbbell", "medicine_ball"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A rotational core exercise that emphasizes the oblique muscles.",
+      "instructions": [
+        "Sit on the floor with knees bent and feet slightly lifted",
+        "Hold a weight to your chest and lean back slightly",
+        "Rotate your torso to one side, bringing the weight toward the floor",
+        "Return to center and repeat on the other side",
+        "Alternate sides for desired repetitions"
+      ],
+      "tips": [
+        "Keep your chest up and core engaged",
+        "Move in a controlled manner",
+        "Increase range of motion gradually"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "side_plank",
+      "name": "Side Plank",
+      "target_muscles": ["obliques"],
+      "secondary_muscles": ["shoulders", "lats"],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A lateral core exercise that emphasizes the oblique muscles and side stabilizers.",
+      "instructions": [
+        "Lie on your side with your elbow directly under your shoulder",
+        "Stack your feet or stagger them for easier variation",
+        "Raise your hips until your body forms a straight line",
+        "Hold this position for the desired amount of time",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your body in a straight line",
+        "Don't let your hips sag or pike upward",
+        "Start with shorter durations and increase gradually"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "hip_thrust",
+      "name": "Hip Thrust",
+      "target_muscles": ["gluteus_maximus"],
+      "secondary_muscles": ["hamstrings"],
+      "equipment": ["barbell", "bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A powerful glute isolation exercise that effectively targets the gluteus maximus.",
+      "instructions": [
+        "Sit with your upper back against a bench or elevated surface",
+        "Place a weight across your hips or hold it at your chest",
+        "Place your feet flat on the ground hip-width apart",
+        "Drive through your heels and extend your hips upward",
+        "Squeeze your glutes at the top and lower back down"
+      ],
+      "tips": [
+        "Get a full range of motion from bottom to top",
+        "Squeeze your glutes hard at the peak",
+        "Can start with bodyweight before adding resistance"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "glute_bridges",
+      "name": "Glute Bridges",
+      "target_muscles": ["gluteus_maximus"],
+      "secondary_muscles": ["hamstrings", "lower_back"],
+      "equipment": ["bodyweight", "barbell"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A foundational glute exercise that targets the gluteus maximus and posterior chain.",
+      "instructions": [
+        "Lie on your back with knees bent and feet flat on the floor",
+        "Place your feet directly under your knees",
+        "Drive through your heels and lift your hips toward the ceiling",
+        "Squeeze your glutes at the top of the movement",
+        "Lower back down and repeat"
+      ],
+      "tips": [
+        "Keep your shoulders and head on the ground",
+        "Drive through your heels, not your toes",
+        "Maintain a neutral spine throughout"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "clamshells",
+      "name": "Clamshells",
+      "target_muscles": ["gluteus_medius"],
+      "secondary_muscles": [],
+      "equipment": ["bodyweight", "resistance_band"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "An isolation exercise for the gluteus medius and hip abductors.",
+      "instructions": [
+        "Lie on your side with knees bent at about 90 degrees",
+        "Keep your feet together and hips stacked",
+        "Lift your top knee upward while keeping feet together",
+        "Lower back down and repeat"
+      ],
+      "tips": [
+        "Don't let your hips roll backward",
+        "Move slowly and control the movement",
+        "Can add a resistance band around the knees"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "back_extension",
+      "name": "Back Extension",
+      "target_muscles": ["lower_back"],
+      "secondary_muscles": ["gluteus_maximus"],
+      "equipment": ["machine", "bodyweight"],
+      "is_machine_exercise": true,
+      "difficulty": "beginner",
+      "description": "A lower back isolation exercise using a machine for safe spinal extension.",
+      "instructions": [
+        "Sit in the back extension machine with your upper back against the pad",
+        "Secure the footplate with your legs",
+        "Extend your back by pushing against the resistance",
+        "Return to the starting position with control",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Keep your core tight throughout",
+        "Move through a full range of motion",
+        "Don't hyperextend your lower back"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "good_mornings",
+      "name": "Good Mornings",
+      "target_muscles": ["lower_back"],
+      "secondary_muscles": ["hamstrings", "gluteus_maximus"],
+      "equipment": ["barbell"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "A compound movement that strengthens the lower back and posterior chain.",
+      "instructions": [
+        "Stand with a barbell across your shoulders like you're doing a squat",
+        "Keep your legs mostly straight with a slight knee bend",
+        "Hinge at the hips and lower your torso toward the ground",
+        "Keep your back straight and return to upright",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Start with very light weight to learn the movement",
+        "Keep your back straight - don't round",
+        "Limited range of motion is fine for safety"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "hip_flexor_raises",
+      "name": "Hip Flexor Raises",
+      "target_muscles": ["hip_flexors"],
+      "secondary_muscles": ["upper_abs"],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "An exercise that targets the hip flexor muscles including the iliopsoas and sartorius.",
+      "instructions": [
+        "Stand upright with your feet hip-width apart",
+        "Keep your core engaged and back straight",
+        "Lift one knee up toward your chest as high as comfortable",
+        "Lower back down and repeat on the other leg",
+        "Alternate sides for desired repetitions"
+      ],
+      "tips": [
+        "Move in a controlled manner",
+        "Keep your core engaged throughout",
+        "Can hold onto a support for balance if needed"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "wrist_curls",
+      "name": "Wrist Curls",
+      "target_muscles": ["forearms"],
+      "secondary_muscles": [],
+      "equipment": ["dumbbell", "barbell"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "An isolation exercise for the forearm muscles, focusing on wrist flexion.",
+      "instructions": [
+        "Sit on a bench with your forearms resting on your thighs",
+        "Hold a dumbbell in each hand with palms facing upward",
+        "Lower the weight by curling your wrists downward",
+        "Raise back up by curling your wrists upward",
+        "Repeat for desired repetitions"
+      ],
+      "tips": [
+        "Use light weight and focus on the forearms",
+        "Full range of motion is important",
+        "Can also be performed with palms facing down for reverse curls"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "farmers_carry",
+      "name": "Farmer's Carry",
+      "target_muscles": ["forearms"],
+      "secondary_muscles": ["shoulders", "traps", "core"],
+      "equipment": ["dumbbell", "barbell"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A compound exercise that builds grip strength and forearm endurance by walking with heavy weights.",
+      "instructions": [
+        "Stand with a heavy dumbbell or kettlebell in each hand",
+        "Keep your shoulders packed and core engaged",
+        "Walk forward for a set distance or time",
+        "Lower the weights and rest",
+        "Repeat for desired sets"
+      ],
+      "tips": [
+        "Maintain an upright posture",
+        "Start with moderate weight to focus on form",
+        "Can increase distance or weight gradually"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "dumbbell_shoulder_press",
+      "name": "Dumbbell Shoulder Press",
+      "target_muscles": ["shoulders"],
+      "secondary_muscles": ["triceps"],
+      "equipment": ["dumbbell"],
+      "is_machine_exercise": false,
+      "difficulty": "intermediate",
+      "description": "An overhead pressing movement that builds shoulder strength.",
+      "instructions": [
+        "Stand or sit with dumbbells held at shoulder height, palms facing forward",
+        "Press the dumbbells overhead until your arms are nearly fully extended",
+        "Lower the dumbbells back to shoulder height with control",
+        "Repeat for the desired number of repetitions"
+      ],
+      "tips": [
+        "Engage your core to protect your lower back",
+        "Don't lock out your elbows completely at the top",
+        "Use a stable stance if standing"
+      ],
+      "animation_file": "dumbbell_shoulder_press.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "calf_raises",
+      "name": "Calf Raises",
+      "target_muscles": ["calves"],
+      "secondary_muscles": [],
+      "equipment": ["bodyweight"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "An exercise that isolates the calf muscles for lower leg strength.",
+      "instructions": [
+        "Stand with feet hip-width apart",
+        "Rise up on your toes by contracting your calf muscles",
+        "Hold at the top for a brief moment and squeeze your calves",
+        "Lower your heels back to the ground",
+        "Repeat for the desired number of repetitions"
+      ],
+      "tips": [
+        "Move slowly and controlled",
+        "For added difficulty, hold dumbbells",
+        "You should feel a strong stretch at the bottom position"
+      ],
+      "animation_file": "calf_raises.gif",
+      "youtube_video_id": null
+    },
+    {
+      "id": "hip_flexor_stretch",
+      "name": "Hip Flexor Stretch",
+      "target_muscles": ["hip_flexors"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the hip flexor muscles.",
+      "instructions": [
+        "Stand in a lunge position with one leg forward, knee bent",
+        "Keep the back leg straight and push the hips forward",
+        "Feel the stretch in the front hip of the back leg",
+        "Hold the stretch for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your back leg straight for a deeper stretch",
+        "Lean forward slightly to intensify the stretch",
+        "Breathe deeply and avoid bouncing"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "hamstring_stretch",
+      "name": "Hamstring Stretch",
+      "target_muscles": ["hamstrings"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the hamstring muscles.",
+      "instructions": [
+        "Sit with one leg extended and the other bent",
+        "Reach toward the toes of the extended leg",
+        "Keep your back straight and lean from the hips",
+        "Hold the stretch for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your knee slightly bent if you're tight",
+        "Avoid rounding your back",
+        "Feel the stretch down the back of your thigh"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "quad_stretch",
+      "name": "Quad Stretch",
+      "target_muscles": ["quadriceps"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the quadriceps muscles.",
+      "instructions": [
+        "Stand on one leg and pull the other foot toward your glutes",
+        "Keep your knees close together",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your knees aligned for proper form",
+        "Hold onto something for balance if needed",
+        "Don't pull your foot to the side"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "calf_stretch",
+      "name": "Calf Stretch",
+      "target_muscles": ["calves"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the calf muscles.",
+      "instructions": [
+        "Step forward with one leg and place your hands on your thigh",
+        "Keep your back leg straight with heel on the ground",
+        "Lean forward to stretch the calf",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your back heel firmly on the ground",
+        "Lean forward to increase the stretch",
+        "You should feel the stretch down the back of your lower leg"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "chest_stretch",
+      "name": "Chest Stretch",
+      "target_muscles": ["chest"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the chest muscles.",
+      "instructions": [
+        "Stand in a doorway with one arm raised to 90 degrees",
+        "Place your forearm on the doorframe",
+        "Step forward to stretch your chest",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your shoulders relaxed",
+        "Don't force the stretch",
+        "Feel the stretch across your chest and shoulder"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "shoulder_cross_stretch",
+      "name": "Shoulder Cross-Body Stretch",
+      "target_muscles": ["shoulders"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the shoulder muscles.",
+      "instructions": [
+        "Stand with good posture",
+        "Pull one arm across your body using your other arm",
+        "Pull at the elbow to stretch the shoulder",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your shoulders relaxed",
+        "Pull at the elbow, not the wrist",
+        "Feel the stretch in the back of your shoulder"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "triceps_overhead_stretch",
+      "name": "Triceps Overhead Stretch",
+      "target_muscles": ["triceps"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the triceps muscles.",
+      "instructions": [
+        "Stand with good posture",
+        "Raise one arm overhead and bend at the elbow",
+        "Use your other hand to gently pull the elbow back",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep your shoulders relaxed",
+        "Avoid pulling too hard",
+        "Feel the stretch down the back of your arm"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "lower_back_stretch",
+      "name": "Lower Back Stretch",
+      "target_muscles": ["lower_back"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the lower back muscles.",
+      "instructions": [
+        "Lie on your back with knees bent and feet flat",
+        "Pull one knee toward your chest",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Don't force the stretch",
+        "Keep your head and shoulders relaxed",
+        "Feel the stretch in your lower back"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "lat_stretch",
+      "name": "Lat Stretch",
+      "target_muscles": ["lats"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the latissimus dorsi muscles.",
+      "instructions": [
+        "Stand with feet hip-width apart",
+        "Reach one arm overhead and to the side",
+        "Lean your torso toward the raised arm",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Keep both feet on the ground",
+        "Feel the stretch down the side of your body",
+        "Avoid leaning backward or forward"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    },
+    {
+      "id": "glute_stretch",
+      "name": "Glute Stretch",
+      "target_muscles": ["gluteus_maximus"],
+      "secondary_muscles": [],
+      "equipment": ["stretch"],
+      "is_machine_exercise": false,
+      "difficulty": "beginner",
+      "description": "A stretching exercise that targets the glute muscles.",
+      "instructions": [
+        "Lie on your back with both knees bent and feet flat",
+        "Place one ankle on the opposite knee, forming a figure-4",
+        "Pull the bottom leg toward your chest",
+        "Hold for 20-30 seconds",
+        "Repeat on the other side"
+      ],
+      "tips": [
+        "Feel the stretch in your glute area",
+        "Keep your head and shoulders relaxed",
+        "Don't force the stretch"
+      ],
+      "animation_file": null,
+      "youtube_video_id": null
+    }
+  ]
+}

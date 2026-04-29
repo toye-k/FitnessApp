@@ -1,0 +1,202 @@
+{
+  "muscles": [
+    {
+      "id": "chest",
+      "name": "Chest",
+      "muscle_group": "chest",
+      "anatomical_location": "Anterior thorax between ribs and sternum",
+      "description": "The pectoralis major and minor muscles form the chest. They are responsible for horizontal adduction and internal rotation of the humerus.",
+      "color": "#FF6B6B",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["pecs", "pectorals"]
+    },
+    {
+      "id": "shoulders",
+      "name": "Shoulders",
+      "muscle_group": "shoulders",
+      "anatomical_location": "Deltoid region",
+      "description": "The deltoid muscles form the shoulder cap. They are responsible for abduction, flexion, and extension of the humerus.",
+      "color": "#FFE66D",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["delts", "deltoids"]
+    },
+    {
+      "id": "biceps",
+      "name": "Biceps",
+      "muscle_group": "biceps",
+      "anatomical_location": "Anterior upper arm",
+      "description": "The biceps brachii is a two-headed muscle on the anterior upper arm. It is responsible for elbow flexion and forearm supination.",
+      "color": "#95E1D3",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["biceps brachii", "guns"]
+    },
+    {
+      "id": "triceps",
+      "name": "Triceps",
+      "muscle_group": "triceps",
+      "anatomical_location": "Posterior upper arm",
+      "description": "The triceps brachii is a three-headed muscle on the posterior upper arm. It is responsible for elbow extension.",
+      "color": "#C7CEEA",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["tri", "triceps brachii"]
+    },
+    {
+      "id": "forearms",
+      "name": "Forearms",
+      "muscle_group": "forearms",
+      "anatomical_location": "Between elbow and wrist",
+      "description": "The forearm muscles including flexors and extensors. They are responsible for wrist and finger movements.",
+      "color": "#FDBCB4",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["wrist muscles", "flexors", "extensors"]
+    },
+    {
+      "id": "upper_back",
+      "name": "Upper Back",
+      "muscle_group": "upper_back",
+      "anatomical_location": "Upper posterior torso",
+      "description": "The trapezius muscles form the upper back. They are responsible for shoulder elevation, retraction, and depression.",
+      "color": "#4ECDC4",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["traps", "trapezius"]
+    },
+    {
+      "id": "lower_back",
+      "name": "Lower Back",
+      "muscle_group": "lower_back",
+      "anatomical_location": "Lower posterior torso",
+      "description": "The erector spinae and other lower back muscles. They are responsible for spinal extension and support.",
+      "color": "#95B8D1",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["erectors", "lumbar"]
+    },
+    {
+      "id": "lats",
+      "name": "Lats",
+      "muscle_group": "lats",
+      "anatomical_location": "Mid-back sides",
+      "description": "The latissimus dorsi muscles form the lats. They are responsible for shoulder adduction, extension, and internal rotation.",
+      "color": "#A8D5BA",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["latissimus dorsi", "lats"]
+    },
+    {
+      "id": "upper_abs",
+      "name": "Upper Abs",
+      "muscle_group": "upper_abs",
+      "anatomical_location": "Upper abdomen",
+      "description": "The upper portion of the rectus abdominis. Primarily responsible for spinal flexion in the upper abdomen.",
+      "color": "#A8D8EA",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["upper abdominals", "rectus abdominis upper"]
+    },
+    {
+      "id": "lower_abs",
+      "name": "Lower Abs",
+      "muscle_group": "lower_abs",
+      "anatomical_location": "Lower abdomen",
+      "description": "The lower portion of the rectus abdominis and transversus abdominis. Responsible for lower spinal flexion and pelvic control.",
+      "color": "#9BC4CB",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["lower abdominals", "lower rectus"]
+    },
+    {
+      "id": "obliques",
+      "name": "Obliques",
+      "muscle_group": "obliques",
+      "anatomical_location": "Sides of abdomen",
+      "description": "The external and internal oblique muscles. They are responsible for trunk rotation and lateral flexion.",
+      "color": "#B8A8D8",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["side abs", "side obliques"]
+    },
+    {
+      "id": "gluteus_maximus",
+      "name": "Gluteus Maximus",
+      "muscle_group": "gluteus_maximus",
+      "anatomical_location": "Large buttock muscle",
+      "description": "The largest of the gluteal muscles. Responsible for hip extension and external rotation.",
+      "color": "#F8B195",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["glute max", "big glute"]
+    },
+    {
+      "id": "gluteus_medius",
+      "name": "Gluteus Medius",
+      "muscle_group": "gluteus_medius",
+      "anatomical_location": "Upper outer buttock",
+      "description": "A medium-sized gluteal muscle. Responsible for hip abduction and stabilization.",
+      "color": "#F5A195",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["glute med", "side glute"]
+    },
+    {
+      "id": "gluteus_minimus",
+      "name": "Gluteus Minimus",
+      "muscle_group": "gluteus_minimus",
+      "anatomical_location": "Deep upper outer buttock",
+      "description": "The smallest of the gluteal muscles. Assists with hip abduction and stabilization.",
+      "color": "#EC9787",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["glute min", "deep glute"]
+    },
+    {
+      "id": "quadriceps",
+      "name": "Quadriceps",
+      "muscle_group": "quadriceps",
+      "anatomical_location": "Anterior thigh",
+      "description": "The quadriceps femoris consists of four muscles on the anterior thigh. They are responsible for knee extension and hip flexion.",
+      "color": "#F38181",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["quads", "quadriceps femoris"]
+    },
+    {
+      "id": "hamstrings",
+      "name": "Hamstrings",
+      "muscle_group": "hamstrings",
+      "anatomical_location": "Posterior thigh",
+      "description": "The hamstring group consists of three muscles on the posterior thigh. They are responsible for knee flexion and hip extension.",
+      "color": "#AA96DA",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["hams", "posterior chain"]
+    },
+    {
+      "id": "hip_flexors",
+      "name": "Hip Flexors",
+      "muscle_group": "hip_flexors",
+      "anatomical_location": "Upper thigh and hip",
+      "description": "Muscles responsible for hip flexion, including the sartorius and iliopsoas. Essential for lifting the leg and running.",
+      "color": "#FFCB69",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["hip flexors", "iliopsoas"]
+    },
+    {
+      "id": "calves",
+      "name": "Calves",
+      "muscle_group": "calves",
+      "anatomical_location": "Lower leg",
+      "description": "The calf muscles including gastrocnemius and soleus. They are responsible for ankle plantarflexion.",
+      "color": "#FF8B94",
+      "mesh_vertices": [],
+      "mesh_faces": [],
+      "aliases": ["soleus", "gastrocnemius"]
+    }
+  ]
+}
